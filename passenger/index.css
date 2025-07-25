@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(217, 243, 234);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.css-title{
+    padding-left: 200px;
+    margin-top: 50px;
+}
+.css-count{
+    padding-left: 300px;
+    font-weight: 790;
+    font-size: 100px;
+    margin-top: 0;
+}
+.button{
+    margin-left: 200px;
+    background-color: darkred;
+    color: white;
+    padding: 10px 100px ;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    
+    
+    
+}
+.css-save{
+     margin-left: 200px;
+     margin-top: 10px;
+    background-color:green;
+    color: white;
+    padding: 10px 122px ;
+    border-radius: 10px;
+    border: none;
+    font-weight: bold;
+    
+}
+.css-prev-entry{
+    margin-left: 203px;
+    width: 280px;
+   
+}

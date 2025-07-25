@@ -1,0 +1,37 @@
+body{
+    background-color: green;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.css-blackjack{
+    margin-left: 230px;
+    color: yellow;
+}
+.css-describe{
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-weight: bold;
+}
+.css-sum,.css-card{
+    text-align: center;
+    color: white;
+    ;
+    font-weight: bold;
+}
+.css-startgame{
+    margin-left: 250px;
+    background-color: yellow;
+    border: none;
+    color: green;
+    padding: 7px 20px;
+    font-weight: bold;
+}
+.css-newcard{
+    margin-left: 250px;
+    background-color: yellow;
+    border: none;
+    color: green;
+    padding: 7px 27.5px;
+    font-weight: bold;
+    margin-top: 10px;
+}
